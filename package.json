@@ -1,0 +1,27 @@
+{
+  "name": "nodejsappengine",
+  "version": "1.0.0",
+  "description": "NodeJs AppEngine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilkerispir/NodeJsAppEngine.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "App",
+    "Engine"
+  ],
+  "author": "Ilker Ispir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilkerispir/NodeJsAppEngine/issues"
+  },
+  "homepage": "https://github.com/ilkerispir/NodeJsAppEngine#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
